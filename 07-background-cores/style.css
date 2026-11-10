@@ -1,0 +1,41 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+
+a {
+    background-color: seagreen;
+    color: white;
+}
+
+/* HEXADECIMAL */
+h2 {
+    background-color: #0062ff;
+    color: #fff;
+}
+
+p {
+    background-color: #000;
+    color: #fff;
+}
+
+/* rgba() */
+.a1 {
+    color: rgba(0, 0, 0, 0.8);
+    background: transparent;
+}
+
+.a2 {
+    color: rgba(0, 0, 0, 0.6);
+    background: transparent;
+}
+
+.a3 {
+    color: rgba(0, 0, 0, 0.4);
+    background: transparent;
+}
+
+.designer {
+    color: rgba(255, 0, 0, 1);
+    background: transparent;
+}

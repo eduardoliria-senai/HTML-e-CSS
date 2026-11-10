@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+}
+
+.caixa {
+    background-color: #111;
+    padding: 28px;
+    border-radius: 8px;
+    margin-bottom: 6px;
+}
+
+h2 {
+    color: #fff;
+}
+
+.destaque {
+    color: #febe01;
+}
+
+p {
+    color: #b2b2b2;
+}
+
+.botao {
+    background-color: #febe01;
+    color: #332200;
+    padding: 12px 6px;
+    /* tirar a borda */
+    border: none;
+    border-radius: 4px;
+    /* tamanho letra */
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
